@@ -1,4 +1,4 @@
-# CPCS204 Linked List Project
+# Linked List 
 
 ## Description
 This project demonstrates the use of a **doubly linked list** in Java with the following operations:
