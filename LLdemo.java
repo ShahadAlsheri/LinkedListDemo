@@ -1,5 +1,3 @@
-package cpcs204;
-
 import java.util.Scanner;
 
 /**
