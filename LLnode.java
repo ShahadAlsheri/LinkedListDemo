@@ -1,6 +1,3 @@
-
-package cpcs204;
-
 public class LLnode {
      int data;
      LLnode next;
